@@ -1,0 +1,9 @@
+{
+  "x_accounts": [],
+  "sitemaps": [
+    "https://openai.com/sitemap.xml",
+    "https://huggingface.co/sitemap.xml"
+  ],
+  "topics": ["AI", "LLM", "machine learning"],
+  "search_console": false
+}
