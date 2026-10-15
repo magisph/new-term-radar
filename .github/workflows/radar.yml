@@ -18,7 +18,7 @@ jobs:
           python-version: '3.10'
           
       - name: Rodar o Radar
-        run: python -m radar daily --skip x,keyword_table --out report.md
+        run: python -m radar daily --skip x --out report.md
         
       - name: Salvar o relatorio
         uses: actions/upload-artifact@v4
